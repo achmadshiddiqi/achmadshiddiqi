@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to The Jungle 🌴
 
 <!--
 **achmadshiddiqi/achmadshiddiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![No Glithes?](/img/img.jpg)
+
+• 🔭✨ Stuff i think im good at : HTML, CSS, JS(ES6), DOM
+• 🌱🐱‍👤 I’m currently learning : Express js, Node.js
