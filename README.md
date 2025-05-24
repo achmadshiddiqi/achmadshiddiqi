@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![No Glithes?](/img/img.jpg)
 
-• 🔭✨ Stuff i think im good at : HTML, CSS, JS(ES6), DOM
+• 🔭✨ Stuff i think im good at : HTML, CSS, JS(ES6), DOM  
 • 🌱🐱‍👤 I’m currently learning : Express js, Node.js
